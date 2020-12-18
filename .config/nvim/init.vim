@@ -146,3 +146,4 @@ function! ToggleHiddenAll()
     endif
 endfunction
 nnoremap <leader>h :call ToggleHiddenAll()<CR>
+:set tabstop=4 shiftwidth=4 expandtab

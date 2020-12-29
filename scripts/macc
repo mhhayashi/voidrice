@@ -1,0 +1,4 @@
+#!/bin/bash
+
+xset r rate 300 50 &
+xinput --set-prop "pointer:Razer Razer Viper" 'libinput Accel Profile Enabled' 0, 1
